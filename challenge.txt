@@ -1,0 +1,11 @@
+1. Visit https://stxnext.com/
+2. Go to "Case Studies” section
+3. In Country dropdown choose "Netherlands"
+4. In Country dropdown choose "United States"
+5. Check if there are 9 results on the page
+6. Check if there are 2 pages of results
+7. In Industry dropdown select "Hospitality"
+8. Check if there is only one result
+9. Check if there are no additional pages
+10. Remove "Netherlands" from chosen options
+11. Check if there are no results and no additional pages
